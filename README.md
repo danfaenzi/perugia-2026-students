@@ -6,6 +6,20 @@ Course material for the **Algebraic Geometry** course taught by Daniele Faenzi i
 
 The final grade will be based primarily on the written examination. Active participation during the exercise sessions—in particular, presenting solutions at the board and answering follow-up questions—may improve the final grade by up to one third of a grade. Participation is voluntary, and not participating will not lower the grade.
 
+
+
+## Office hours
+
+Monday — 10:40 ~ 11:40
+
+Wednesday 22/07 and 5/08 — 9:30 ~ 10:30
+
+Wednesday 29/07 and 12/08 — 11:30 ~ 12:30
+
+My office is at the 6th floor
+
+
+
 ## Lecture notes
 
 - [Lecture notes (PDF)](lecture-notes.pdf)
