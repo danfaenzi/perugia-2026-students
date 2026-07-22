@@ -16,7 +16,7 @@ Wednesday 22/07 and 5/08 — 9:30 ~ 10:30
 
 Wednesday 29/07 and 12/08 — 11:30 ~ 12:30
 
-My office is at the 6th floor
+My office is number 607, at the 6th floor
 
 
 
