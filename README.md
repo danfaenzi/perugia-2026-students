@@ -14,9 +14,68 @@ In the exercice about Nakayama's lemma, a hypothesis was missing! Check the note
 
 ##### 24/07
 
-There was a question about showing that \((xy)\) is a radical ideal of \(k[x,y]\). It was asked if we can apply the Chinese remainder theorem. The answer is no, because for that we should have that \((x)\) and \((y)\) are "coprime" ideals, which means that there are \(f\in (x)\) and \(g \in (y)\) such that \(f+g=1\), which is not true.
+##### 24/07
 
-On the other hand we can use that \(k[x,y]\) is a UFD. Let \( f\in \sqrt{(xy)}\). Then there is \(m \in \mathbb{N}\) such that \(xy \mid f^m\). Let \(f=p_1^{a_1}\cdots p_s^{a_s}\) be the decomposition of \(f\) into irreducible factors. Then the decomposition of \(f^m\) is \(f^m=p_1^{m a_1}\cdots p_s^{m a_s}\). Since \(x\) and \(y\) are irreducible and not associate in \(k[x,y]\), by the uniqueness of the decomposition, there are \(i,j \in \{1,\ldots,s\}\) such that \(p_i=u x\) and \(p_j= v y\), where \(u,v\) are invertible in \(k[x,y]\). Therefore,  \(xy \mid f\) and \(f \in (xy)\). 
+There was a question about proving that ((xy)) is a radical ideal of (k[x,y]).
+
+Can we apply the Chinese remainder theorem? The answer is no: this would require the ideals ((x)) and ((y)) to be comaximal, that is,
+
+$$
+(x)+(y)=k[x,y].
+$$
+
+Equivalently, there would have to exist (f\in(x)) and (g\in(y)) such that
+
+$$
+f+g=1,
+$$
+
+which is not possible.
+
+We can instead use the fact that (k[x,y]) is a unique factorisation domain. Let
+
+$$
+f\in\sqrt{(xy)}.
+$$
+
+Then, for some (m\geq 1),
+
+$$
+f^m\in(xy),
+$$
+
+or equivalently,
+
+$$
+xy\mid f^m.
+$$
+
+Write the factorisation of (f) into irreducible elements as
+
+$$
+f=u,p_1^{a_1}\cdots p_s^{a_s},
+$$
+
+where (u) is a unit. Then
+
+$$
+f^m=u^m p_1^{ma_1}\cdots p_s^{ma_s}.
+$$
+
+Since (x) and (y) are irreducible and are not associates, the divisibility (xy\mid f^m) and uniqueness of factorisation imply that both (x) and (y) divide (f). Therefore,
+
+$$
+xy\mid f,
+$$
+
+so (f\in(xy)). We have proved that
+$$
+\sqrt{(xy)}\subseteq(xy).
+$$
+The reverse inclusion always holds, and hence
+$$
+\sqrt{(xy)}=(xy).
+$$
 
 ## Assessment
 
