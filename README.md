@@ -16,66 +16,49 @@ In the exercice about Nakayama's lemma, a hypothesis was missing! Check the note
 
 ##### 24/07
 
-There was a question about proving that ((xy)) is a radical ideal of (k[x,y]).
+There was a question about proving that $(xy)$ is a radical ideal of $k[x,y]$.
 
-Can we apply the Chinese remainder theorem? The answer is no: this would require the ideals ((x)) and ((y)) to be comaximal, that is,
+Can we apply the Chinese remainder theorem? The answer is no: this would require the ideals $(x)$ and $(y)$ to be comaximal, that is,
 
-$$
-(x)+(y)=k[x,y].
-$$
+$(x)+(y)=k[x,y].$
 
-Equivalently, there would have to exist (f\in(x)) and (g\in(y)) such that
+Equivalently, there would have to exist $f\in(x)$ and $g\in(y)$ such that
 
-$$
-f+g=1,
-$$
+$f+g=1,$
 
 which is not possible.
 
-We can instead use the fact that (k[x,y]) is a unique factorisation domain. Let
+We can instead use the fact that $k[x,y]$ is a unique factorisation domain. Let
 
-$$
-f\in\sqrt{(xy)}.
-$$
+$f\in\sqrt{(xy)}.$
 
-Then, for some (m\geq 1),
+Then, for some integer $m\geq 1$,
 
-$$
-f^m\in(xy),
-$$
+$f^m\in(xy),$
 
 or equivalently,
 
-$$
-xy\mid f^m.
-$$
+$xy\mid f^m.$
 
-Write the factorisation of (f) into irreducible elements as
+Write the factorisation of $f$ into irreducible elements as
 
-$$
-f=u,p_1^{a_1}\cdots p_s^{a_s},
-$$
+$f=u\,p_1^{a_1}\cdots p_s^{a_s},$
 
-where (u) is a unit. Then
+where $u$ is a unit. Then
 
-$$
-f^m=u^m p_1^{ma_1}\cdots p_s^{ma_s}.
-$$
+$f^m=u^m p_1^{ma_1}\cdots p_s^{ma_s}.$
 
-Since (x) and (y) are irreducible and are not associates, the divisibility (xy\mid f^m) and uniqueness of factorisation imply that both (x) and (y) divide (f). Therefore,
+Since $x$ and $y$ are irreducible and are not associates, the divisibility $xy\mid f^m$ and uniqueness of factorisation imply that both $x$ and $y$ divide $f$. Therefore,
 
-$$
-xy\mid f,
-$$
+$xy\mid f,$
 
-so (f\in(xy)). We have proved that
-$$
-\sqrt{(xy)}\subseteq(xy).
-$$
+so $f\in(xy)$. We have proved that
+
+$\sqrt{(xy)}\subseteq(xy).$
+
 The reverse inclusion always holds, and hence
-$$
-\sqrt{(xy)}=(xy).
-$$
+
+$\sqrt{(xy)}=(xy).$
 
 ## Assessment
 
