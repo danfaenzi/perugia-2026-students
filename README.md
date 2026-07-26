@@ -12,7 +12,11 @@ Have you tried to prove that integral elements form a subring? One hint, if you 
 
 In the exercice about Nakayama's lemma, a hypothesis was missing! Check the notes for the correct statement (and the solution).
 
+##### 24/07
 
+There was a question about showing that \((xy)\) is a radical ideal of \(k[x,y]\). It was asked if we can apply the Chinese remainder theorem. The answer is no, because for that we should have that \((x)\) and \((y)\) are "coprime" ideals, which means that there are \(f\in (x)\) and \(g \in (y)\) such that \(f+g=1\), which is not true.
+
+On the other hand we can use that \(k[x,y]\) is a UFD. Let \( f\in \sqrt{(xy)}\). Then there is \(m \in \mathbb{N}\) such that \(xy \mid f^m\). Let \(f=p_1^{a_1}\cdots p_s^{a_s}\) be the decomposition of \(f\) into irreducible factors. Then the decomposition of \(f^m\) is \(f^m=p_1^{m a_1}\cdots p_s^{m a_s}\). Since \(x\) and \(y\) are irreducible and not associate in \(k[x,y]\), by the uniqueness of the decomposition, there are \(i,j \in \{1,\ldots,s\}\) such that \(p_i=u x\) and \(p_j= v y\), where \(u,v\) are invertible in \(k[x,y]\). Therefore,  \(xy \mid f\) and \(f \in (xy)\). 
 
 ## Assessment
 
@@ -49,6 +53,9 @@ I expect that you take quite some time to solve each exercice. Please, don't att
 When you present some solution, please try to emphasize what you think is crucial, rather than presenting lengthy computations. Please try to keep your presentation within 5-8 minutes -- this timing is meant for the presenting your solution, not for elaborating / finding it :-)
 
 - [All exercise sheets in one file (PDF)](exercise-sheets/all-weeks.pdf)
+- Background exercices (modules over a ring etc)
+  - [Background (PDF)](exercise-sheets/background.pdf)
+  - [Background -- Hinted (PDF)](exercise-sheets/background-hints.pdf)
 - Week 1
   - [Week 1 (PDF)](exercise-sheets/week1.pdf)
   - [Week 1 -- Hinted (PDF)](exercise-sheets/week1-hints.pdf)
