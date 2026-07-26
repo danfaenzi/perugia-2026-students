@@ -14,8 +14,6 @@ In the exercice about Nakayama's lemma, a hypothesis was missing! Check the note
 
 ##### 24/07
 
-##### 24/07
-
 There was a question about proving that $(xy)$ is a radical ideal of $k[x,y]$.
 
 Can we apply the Chinese remainder theorem? The answer is no: this would require the ideals $(x)$ and $(y)$ to be comaximal, that is,
