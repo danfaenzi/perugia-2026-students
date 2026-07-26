@@ -42,7 +42,7 @@ $xy\mid f^m.$
 
 Write the factorisation of $f$ into irreducible elements as
 
-$f=u\,p_1^{a_1}\cdots p_s^{a_s},$
+$f=u p_1^{a_1}\cdots p_s^{a_s},$
 
 where $u$ is a unit. Then
 
