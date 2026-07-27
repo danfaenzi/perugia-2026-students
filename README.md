@@ -16,51 +16,27 @@ In the exercice about Nakayama's lemma, a hypothesis was missing! Check the note
 
 There was a question about proving that $(xy)$ is a radical ideal of $k[x,y]$.
 
-Can we apply the Chinese remainder theorem? The answer is no: this would require the ideals $(x)$ and $(y)$ to be comaximal, that is,
+Can we apply the Chinese remainder theorem? The answer is no: this would require the ideals $(x)$ and $(y)$ to be comaximal, that is, $(x)+(y)=k[x,y].$
 
-$(x)+(y)=k[x,y].$
-
-Equivalently, there would have to exist $f\in(x)$ and $g\in(y)$ such that
-
-$f+g=1,$
-
-which is not possible.
+Equivalently, there would have to exist $f\in(x)$ and $g\in(y)$ such that $f+g=1,$ which is not possible.
 
 We can instead use the fact that $k[x,y]$ is a unique factorisation domain. Let
 
-$f\in\sqrt{(xy)}.$
-
-Then, for some integer $m\geq 1$,
-
-$f^m\in(xy),$
-
-or equivalently,
-
-$xy\mid f^m.$
+$f\in\sqrt{(xy)}.$ Then, for some integer $m\geq 1$, $f^m\in(xy),$ or equivalently, $xy\mid f^m.$
 
 Write the factorisation of $f$ into irreducible elements as
 
 $f=u p_1^{a_1}\cdots p_s^{a_s},$
 
-where $u$ is a unit. Then
+where $u$ is a unit. Then $f^m=u^m p_1^{ma_1}\cdots p_s^{ma_s}.$
 
-$f^m=u^m p_1^{ma_1}\cdots p_s^{ma_s}.$
+Since $x$ and $y$ are irreducible and are not associates, the divisibility $xy\mid f^m$ and uniqueness of factorisation imply that both $x$ and $y$ divide $f$. Therefore, $xy\mid f,$ so $f\in(xy)$. We have proved that $\sqrt{(xy)}\subseteq(xy).$
 
-Since $x$ and $y$ are irreducible and are not associates, the divisibility $xy\mid f^m$ and uniqueness of factorisation imply that both $x$ and $y$ divide $f$. Therefore,
-
-$xy\mid f,$
-
-so $f\in(xy)$. We have proved that
-
-$\sqrt{(xy)}\subseteq(xy).$
-
-The reverse inclusion always holds, and hence
-
-$\sqrt{(xy)}=(xy).$
+The reverse inclusion always holds, and hence $\sqrt{(xy)}=(xy).$
 
 ##### 24/07
 
-There was a question about whether $\mathbf{V}(\mathfrak{a}) \subset k^n$ and $\mathbb{V}(\mathfrak{a}) \subset \mathbb{A}k^n$ are the same. I erronously claimed that one example where they are different is for $n=1$ and $\mathfrak{a}=(x-a)$. Actually in this case both consist of a single point, it is not true that $(0)$ belongs to one of them. But a simpler example is: take $mathfrak{a}=(0)$ in $\mathbb{C}[x]$. Then $\mathbb{V}(0)=\mathbb{A}^1{\mathbb{C}}$ contains all points of the form $(x-a)$ and $(0)$, while $\mathbf{V}(0)= \mathbb{C}$. The map sending $\mathbb{C}$ to $\mathbb{A}^1{\mathbb{C}}$ by $a \mapsto (x-a)$ hits all points except $(0)$.
+There was a question about whether $\mathbf{V}(\mathfrak{a}) \subset k^n$ and $\mathbb{V}(\mathfrak{a}) \subset \mathbb{A}k^n$ are the same. I erronously claimed that one example where they are different is for $n=1$ and $\mathfrak{a}=(x-a)$. Actually in this case both consist of a single point, it is not true that $(0)$ belongs to one of them. But a simpler example is: take $\mathfrak{a}=(0)$ in $\mathbb{C}[x]$. Then $\mathbb{V}(0)=\mathbb{A}^1{\mathbb{C}}$ contains all points of the form $(x-a)$ and $(0)$, while $\mathbf{V}(0)= \mathbb{C}$. The map sending $\mathbb{C}$ to $\mathbb{A}^1_{\mathbb{C}}$ by $a \mapsto (x-a)$ hits all points except $(0)$.
 
 ## Assessment
 
