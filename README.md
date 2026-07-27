@@ -17,12 +17,9 @@ In the exercice about Nakayama's lemma, a hypothesis was missing! Check the note
 There was a question about proving that $(xy)$ is a radical ideal of $k[x,y]$.
 
 Can we apply the Chinese remainder theorem? The answer is no: this would require the ideals $(x)$ and $(y)$ to be comaximal, that is, $(x)+(y)=k[x,y].$
-
 Equivalently, there would have to exist $f\in(x)$ and $g\in(y)$ such that $f+g=1,$ which is not possible.
 
-We can instead use the fact that $k[x,y]$ is a unique factorisation domain. Let
-
-$f\in\sqrt{(xy)}.$ Then, for some integer $m\geq 1$, $f^m\in(xy),$ or equivalently, $xy\mid f^m.$
+We can instead use the fact that $k[x,y]$ is a unique factorisation domain. Let $f\in\sqrt{(xy)}.$ Then, for some integer $m\geq 1$, $f^m\in(xy),$ or equivalently, $xy\mid f^m.$
 
 Write the factorisation of $f$ into irreducible elements as
 
