@@ -27,7 +27,7 @@ $f=u p_1^{a_1}\cdots p_s^{a_s},$
 
 where $u$ is a unit. Then $f^m=u^m p_1^{ma_1}\cdots p_s^{ma_s}.$
 
-Since $x$ and $y$ are irreducible and are not associates, the divisibility $xy\mid f^m$ and uniqueness of factorisation imply that both $x$ and $y$ divide $f$. Therefore, $xy\mid f,$ so $f\in(xy)$. We have proved that $\sqrt{(xy)}\subseteq(xy).$
+Since $x$ and $y$ are irreducible and not associated, the divisibility $xy\mid f^m$ and uniqueness of factorisation imply that there are $i,j \in \{1,\ldots,s\}$ such that $x = v p_i$ and $y = w p_j$, with $v,w \in A$ invertible. Therefore, $xy\mid f,$ so $f\in(xy)$. We have proved that $\sqrt{(xy)}\subseteq(xy).$
 
 The reverse inclusion always holds, and hence $\sqrt{(xy)}=(xy).$
 
