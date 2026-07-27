@@ -4,15 +4,15 @@ Course material for the **Algebraic Geometry** course taught by Daniele Faenzi i
 
 ## Announcements / communications
 
-##### 22/07
+#### 22/07
 
 Have you tried to prove that integral elements form a subring? One hint, if you know what that is, to the resultant.
 
-##### 22/07
+#### 22/07
 
 In the exercice about Nakayama's lemma, a hypothesis was missing! Check the notes for the correct statement (and the solution).
 
-##### 24/07
+#### 24/07
 
 There was a question about proving that $(xy)$ is a radical ideal of $k[x,y]$.
 
@@ -34,7 +34,7 @@ Since $x$ and $y$ are irreducible and are not associates, the divisibility $xy\m
 
 The reverse inclusion always holds, and hence $\sqrt{(xy)}=(xy).$
 
-##### 24/07
+#### 26/07
 
 There was a question about whether $\mathbf{V}(\mathfrak{a}) \subset k^n$ and $\mathbb{V}(\mathfrak{a}) \subset \mathbb{A} _{k}^n$ are the same. I erronously claimed that one example where they are different is for $n=1$ and $\mathfrak{a}=(x-a)$. Actually in this case both consist of a single point, it is not true that $(0)$ belongs to one of them. But a simpler example is: take $\mathfrak{a}=(0)$ in $\mathbb{C}[x]$. Then $\mathbb{V}(0)=\mathbb{A}^1 _{\mathbb{C}}$ contains all points of the form $(x-a)$ and $(0)$, while $\mathbf{V}(0)= \mathbb{C}$. The map sending $\mathbb{C}$ to $\mathbb{A}^1 _{\mathbb{C}}$ by $a \mapsto (x-a)$ hits all points except $(0)$.
 
