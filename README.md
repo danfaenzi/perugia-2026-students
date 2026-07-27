@@ -36,7 +36,7 @@ The reverse inclusion always holds, and hence $\sqrt{(xy)}=(xy).$
 
 ##### 24/07
 
-There was a question about whether $\mathbf{V}(\mathfrak{a}) \subset k^n$ and $\mathbb{V}(\mathfrak{a}) \subset \mathbb{A}_{k}^n$ are the same. I erronously claimed that one example where they are different is for $n=1$ and $\mathfrak{a}=(x-a)$. Actually in this case both consist of a single point, it is not true that $(0)$ belongs to one of them. But a simpler example is: take $\mathfrak{a}=(0)$ in $\mathbb{C}[x]$. Then $\mathbb{V}(0)=\mathbb{A}^1{\mathbb{C}}$ contains all points of the form $(x-a)$ and $(0)$, while $\mathbf{V}(0)= \mathbb{C}$. The map sending $\mathbb{C}$ to $\mathbb{A}^1_{\mathbb{C}}$ by $a \mapsto (x-a)$ hits all points except $(0)$.
+There was a question about whether $\mathbf{V}(\mathfrak{a}) \subset k^n$ and $\mathbb{V}(\mathfrak{a}) \subset \mathbb{A} _{k}^n$ are the same. I erronously claimed that one example where they are different is for $n=1$ and $\mathfrak{a}=(x-a)$. Actually in this case both consist of a single point, it is not true that $(0)$ belongs to one of them. But a simpler example is: take $\mathfrak{a}=(0)$ in $\mathbb{C}[x]$. Then $\mathbb{V}(0)=\mathbb{A}^1 _{\mathbb{C}}$ contains all points of the form $(x-a)$ and $(0)$, while $\mathbf{V}(0)= \mathbb{C}$. The map sending $\mathbb{C}$ to $\mathbb{A}^1{\mathbb{C}}$ by $a \mapsto (x-a)$ hits all points except $(0)$.
 
 ## Assessment
 
