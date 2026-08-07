@@ -49,7 +49,8 @@ Definitions introduced during the course are part of the syllabus: students shou
 The exam will contain one theoretical question, worth about **25% of the total mark**. It will be chosen from the following four topics.
 
 1. **Hilbert’s Nullstellensatz.**
-   Proof of the Nullstellensatz, including the Rabinowitsch trick. Zariski’s lemma may be used without proof.
+   Proof of the Nullstellensatz, including the Rabinowitsch trick.
+   The lemma on finite field extensions may be used without proof.
 
 2. **Morphisms to an affine scheme.**
    Construction of the bijection, in both directions
@@ -57,10 +58,10 @@ The exam will contain one theoretical question, worth about **25% of the total m
 $\mathrm{Hom}_ {\mathrm{(Sch)}}(X,\mathrm{Spec}(A)) \leftrightarrow \mathrm{Hom}_ {\mathrm{(Ring)}}(A,\Gamma(\mathcal{O}_X))$
 
 
-3. **Gluing two schemes.**
-   Construction of the underlying topological space and of the structure sheaf, using compatible pairs of sections. 
+3. **Gluing schemes.**
+   Construction of the underlying topological space and of the structure sheaf, using compatible sections. 
 
-   The verification of the sheaf axioms and the general gluing lemma for an arbitrary family of schemes are not required.
+   The verification of the sheaf axioms and that the resulting space is a scheme is not required.
 
 4. **Reduction of a scheme.**
    Construction of $(X_{\mathrm{red}})$ and proof of its universal property with respect to morphisms from reduced schemes.
