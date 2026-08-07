@@ -52,11 +52,11 @@ The exam will contain one theoretical question, worth about **25% of the total m
    Proof of the Nullstellensatz, including the Rabinowitsch trick. Zariski’s lemma may be used without proof.
 
 2. **Morphisms to an affine scheme.**
-   Construction of the bijection
+   Construction of the bijection, in both directions
 
-$\mathrm{Hom}_{\mathrm{(Sch)}}(X,\mathrm{Spec}(A))$
+$\mathrm{Hom}_{\mathrm{(Sch)}}(X,\mathrm{Spec}(A)) \leftrightarrow
+\mathrm{Hom}_{\mathrm{(Ring)}}(A,\Gamma(\mathcal{O}_X)).$
 
-in both directions, and verification that the two constructions are inverse.
 
 3. **Gluing two schemes.**
    Construction of the underlying topological space and of the structure sheaf, using compatible pairs of sections. 
