@@ -54,12 +54,10 @@ The exam will contain one theoretical question, worth about **25% of the total m
 2. **Morphisms to an affine scheme.**
    Construction of the bijection
 
-$
-   \operatorname{Hom}_{(\mathrm{Sch})}(X,\operatorname{Spec} A)
+$\operatorname{Hom}_{(\mathrm{Sch})}(X,\operatorname{Spec} A)
    \simeq
    \operatorname{Hom}_{(\mathrm{Ring})}
-   \bigl(A,\Gamma(X,\mathcal O_X)\bigr)
-   $
+   \bigl(A,\Gamma(X,\mathcal O_X)\bigr)$
    
    in both directions, and verification that the two constructions are inverse.
 
