@@ -40,7 +40,36 @@ There was a question about whether $\mathbf{V}(\mathfrak{a}) \subset k^n$ and $\
 
 The final grade will be based primarily on the written examination. Active participation during the exercise sessions—in particular, presenting solutions at the board and answering follow-up questions—may improve the final grade by up to one third of a grade. Participation is voluntary, and not participating will not lower the grade.
 
+## Final exam
 
+The final exam will last **1 hour 30 minutes**.
+
+Definitions introduced during the course are part of the syllabus: students should be able to state them precisely and use them in examples and proofs.
+
+The exam will contain one theoretical question, worth about **25% of the total mark**. It will be chosen from the following four topics.
+
+1. **Hilbert’s Nullstellensatz.**
+   Proof of the Nullstellensatz, including the Rabinowitsch trick. Zariski’s lemma may be used without proof.
+
+2. **Morphisms to an affine scheme.**
+   Construction of the bijection
+   $$
+   \operatorname{Hom}_{(\mathrm{Sch})}(X,\operatorname{Spec} A)
+   \simeq
+   \operatorname{Hom}_{(\mathrm{Ring})}
+   \bigl(A,\Gamma(X,\mathcal O_X)\bigr)
+   $$
+   in both directions, and verification that the two constructions are inverse.
+
+3. **Gluing two schemes.**
+   Construction of the underlying topological space and of the structure sheaf, using compatible pairs of sections. 
+
+   The verification of the sheaf axioms and the general gluing lemma for an arbitrary family of schemes are not required.
+
+4. **Reduction of a scheme.**
+   Construction of \((X_{\mathrm{red}})\) and proof of its universal property with respect to morphisms from reduced schemes.
+
+The remaining questions will consist of exercises based on the definitions, examples and techniques studied during the course.
 
 ## Office hours
 
