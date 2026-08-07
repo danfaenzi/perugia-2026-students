@@ -54,8 +54,7 @@ The exam will contain one theoretical question, worth about **25% of the total m
 2. **Morphisms to an affine scheme.**
    Construction of the bijection, in both directions
 
-$\mathrm{Hom}_{\mathrm{(Sch)}}(X,\mathrm{Spec}(A)) \leftrightarrow
-\mathrm{Hom}_{\mathrm{(Ring)}}(A,\Gamma(\mathcal{O}_X)).$
+$\mathrm{Hom}_{\mathrm{(Sch)}}(X,\mathrm{Spec}(A)) \leftrightarrow$
 
 
 3. **Gluing two schemes.**
