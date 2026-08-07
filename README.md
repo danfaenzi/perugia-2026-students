@@ -53,12 +53,14 @@ The exam will contain one theoretical question, worth about **25% of the total m
 
 2. **Morphisms to an affine scheme.**
    Construction of the bijection
-   $$
+
+$
    \operatorname{Hom}_{(\mathrm{Sch})}(X,\operatorname{Spec} A)
    \simeq
    \operatorname{Hom}_{(\mathrm{Ring})}
    \bigl(A,\Gamma(X,\mathcal O_X)\bigr)
-   $$
+   $
+   
    in both directions, and verification that the two constructions are inverse.
 
 3. **Gluing two schemes.**
@@ -67,7 +69,7 @@ The exam will contain one theoretical question, worth about **25% of the total m
    The verification of the sheaf axioms and the general gluing lemma for an arbitrary family of schemes are not required.
 
 4. **Reduction of a scheme.**
-   Construction of \((X_{\mathrm{red}})\) and proof of its universal property with respect to morphisms from reduced schemes.
+   Construction of $(X_{\mathrm{red}})$ and proof of its universal property with respect to morphisms from reduced schemes.
 
 The remaining questions will consist of exercises based on the definitions, examples and techniques studied during the course.
 
