@@ -46,7 +46,7 @@ The final exam will last **1 hour 30 minutes**.
 
 Definitions introduced during the course are part of the syllabus: students should be able to state them precisely and use them in examples and proofs.
 
-The exam will contain one theoretical question, worth about **25% of the total mark**. It will be chosen from the following four topics.
+The exam will contain one theoretical question, worth about **25% of the total mark**. It will be chosen from the following four topics. Examples and applications of the results can be part of the question.
 
 1. **Hilbert’s Nullstellensatz.**
    Proof of the Nullstellensatz, including the Rabinowitsch trick.
