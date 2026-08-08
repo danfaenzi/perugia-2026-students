@@ -115,5 +115,8 @@ When you present some solution, please try to emphasize what you think is crucia
 - Week 4
   - [Week 4 (PDF)](exercise-sheets/week4.pdf)
   - [Week 4 -- Hinted (PDF)](exercise-sheets/week4-hints.pdf)
+  - Previous version of Week 4, kept only in case you already started working on it:
+    - [Week 4 -- Previous version (PDF)](exercise-sheets/week4-backup.pdf)
+    - [Week 4 -- Previous version, hinted (PDF)](exercise-sheets/week4-backup-hints.pdf)
 
 The files on this page may be updated during the course. Students can use the same links throughout.
