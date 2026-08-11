@@ -60,6 +60,8 @@ the results may be asked in a simplified or slighlty modified form.
 
 $\mathrm{Hom}_ {\mathrm{(Sch)}}(X,\mathrm{Spec}(A)) \leftrightarrow \mathrm{Hom}_ {\mathrm{(Ring)}}(A,\Gamma(\mathcal{O}_X))$
 
+Proof of continuity of the map $X \to \mathrm{Spec}(A)$ induced by a 
+$A\varphi \Gamma(\mathcal{O}_X)$.
 
 3. **Gluing schemes.**
    Construction of the underlying topological space and of the structure sheaf, using compatible sections. 
