@@ -67,7 +67,9 @@ $\mathrm{Hom}_ {\mathrm{(Sch)}}(X,\mathrm{Spec}(A)) \leftrightarrow \mathrm{Hom}
    The verification of the sheaf axioms and that the resulting space is a scheme is not required.
 
 4. **Reduction of a scheme.**
-   Construction of $(X_{\mathrm{red}})$ and proof of its universal property with respect to morphisms from reduced schemes.
+   Construction of $(X_{\mathrm{red}})$, definition of the radical ideal sheaf
+   $\mathcal{R}$ and identification of $\mathcal{R}(\mathrm{Spec}(A))$ with
+   $\mathrm{Rad}(A)$. Proof of the universal property with respect to morphisms from reduced schemes (except for uniqueness).
 
 The remaining questions will consist of exercises based on the definitions, examples and techniques studied during the course.
 
