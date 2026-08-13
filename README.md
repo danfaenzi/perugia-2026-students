@@ -38,6 +38,8 @@ There was a question about whether $\mathbf{V}(\mathfrak{a}) \subset k^n$ and $\
 
 ## Assessment
 
+- [Correction sheet for the oral tickets (PDF)](exercise-sheets/oral-tickets-corrections.pdf)
+
 The final grade will be based primarily on the written examination. Active participation during the exercise sessions—in particular, presenting solutions at the board and answering follow-up questions—may improve the final grade by up to one third of a grade. Participation is voluntary, and not participating will not lower the grade.
 
 ## Final exam
