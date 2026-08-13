@@ -42,6 +42,8 @@ The final grade will be based primarily on the written examination. Active parti
 
 ## Final exam
 
+- [Final exam correction (PDF)](exercise-sheets/final-exam-correction.pdf)
+
 The final exam will last **1 hour 30 minutes**.
 
 Definitions introduced during the course are part of the syllabus: students should be able to state them precisely and use them in examples and proofs.
